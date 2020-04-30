@@ -6,11 +6,12 @@ Porosity estimated: 8.45%
 Reference porosity calculation: 9.32%
 
 
-Image sources:
+
+Image sources: <br>
 https://www.geologysuperstore.com/index.php/portland-limestone-2735.html
 
-Reference:
-Reservoir Engineering, Martin J. Blunt
-Lecture Notes
-Imperial College London 
-Page 190
+Reference: <br>
+Reservoir Engineering, Martin J. Blunt <br>
+Lecture Notes <br>
+Imperial College London <br>
+Page 190 <br>
